@@ -25,8 +25,8 @@ public class FunnyHeadActivity extends AppCompatActivity {
         List<String> titles = new ArrayList<>();
         titles.add("小世界");
         titles.add("大梦想");
-        titles.add("儿童时尚");
-        titles.add("蘑菇街");
+        titles.add("依然范特西");
+        titles.add("叶惠美");
         titles.add("阿里巴巴");
         titles.add("好多好吃的");
         titles.add("我太TM帅了");
