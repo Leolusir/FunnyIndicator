@@ -6,4 +6,5 @@
     <string name="title_activity_default">DefaultActivity</string>
     <string name="title_activity_funny_head">FunnyHeadActivity</string>
     <string name="title_activity_travel_color">TravelColorActivity</string>
+
 </resources>
