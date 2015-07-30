@@ -6,7 +6,7 @@ any discuss will be welcome : leo.lusir@gmail.com
 
 ## demo
 
-![image](https://github.com/Leolusir/FunnyIndicator/tree/master/image/image.png)
+![image](https://github.com/Leolusir/FunnyIndicator/blob/master/images/image.png)
 
 ## How to use
 
