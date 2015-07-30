@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FunnyIndicator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_default">DefaultActivity</string>
+    <string name="title_activity_funny_head">FunnyHeadActivity</string>
+    <string name="title_activity_travel_color">TravelColorActivity</string>
+</resources>

@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.leo.funnyindicator.FunnyHeadActivity">
+
+    <com.leo.funnyindicatorlibrary.TravelHeadColorIndicator
+        android:id="@+id/travel_color_view"
+        android:layout_width="match_parent"
+        android:layout_height="120dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:textColor="#ffffff"
+            android:text="Hello"
+            android:layout_centerInParent="true"
+            android:visibility="gone"/>
+
+    </com.leo.funnyindicatorlibrary.TravelHeadColorIndicator>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/travel_color_view"/>
+
+</RelativeLayout>

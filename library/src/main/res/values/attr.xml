@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="normal_text_size" format="dimension"/>
+    <attr name="normal_text_color" format="color|reference"/>
+    <attr name="selected_text_size" format="dimension"/>
+    <attr name="selected_text_color" format="color|reference"/>
+    <attr name="line_color" format="color|reference"/>
+
+    <declare-styleable name="IndicatorLayout">
+
+        <attr name="normal_text_size" />
+        <attr name="normal_text_color" />
+        <attr name="selected_text_size" />
+        <attr name="selected_text_color" />
+        <attr name="line_color" />
+
+    </declare-styleable>
+
+
+</resources>
