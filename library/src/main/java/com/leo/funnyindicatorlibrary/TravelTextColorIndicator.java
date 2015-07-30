@@ -28,7 +28,7 @@ public class TravelTextColorIndicator extends BaseIndicator{
 
     private int activeTextColor = Color.RED;
 
-    private int textSize = 40;
+    private int textSize = 30;
 
     private int lineColor = activeTextColor;
 

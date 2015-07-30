@@ -143,7 +143,6 @@ public class TravelHeadColorIndicator extends RelativeLayout {
             public void onPageSelected(int position) {
                 setDirection(DIRECTION_CONSTANT);
                 invalidate();
-
                 if(onPageChangedListener != null)
                     onPageChangedListener.onPageSelected(position);
 

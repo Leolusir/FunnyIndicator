@@ -15,7 +15,7 @@ public class BaseIndicator extends HorizontalScrollView{
     protected int default_text_normal_color = Color.GRAY;
     protected int default_text_normal_size = 10;
     protected int default_text_selected_color = Color.RED;
-    protected int default_Text_selected_size = 20;
+    protected int default_Text_selected_size = 16;
     protected int default_line_color = Color.RED;
 
     public BaseIndicator(Context context) {
